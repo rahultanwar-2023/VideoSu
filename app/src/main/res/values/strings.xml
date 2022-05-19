@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoSu</string>
+
+    //Google API
+    <string name="API"></string>
+
+</resources>
